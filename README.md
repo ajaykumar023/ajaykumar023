@@ -29,45 +29,43 @@
 ---
 
 ## 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-<pre>
 <code>
-class AjayKumar:
-    def __init__(self):
-        self.name = "M. Ajay Kumar"
-        self.role = "Aspiring Software Engineer"
-        self.status = "Engineering Student"
-
-        self.stack = {
-            "languages": ["Python", "JavaScript", "HTML5", "CSS3"],
-            "web": ["React", "Vite", "Tailwind CSS", "React Router"],
-            "ai_ml": ["Scikit-learn", "Pandas", "NumPy", "Streamlit"],
-            "cloud": ["AWS"],
-            "tools": ["Git", "GitHub", "VS Code"]
-        }
-
-        self.currently_learning = [
-            "Full-Stack Web Development",
-            "Artificial Intelligence & Machine Learning",
-            "Cloud Computing & AWS",
-            "Cybersecurity & Blockchain",
-            "Data Structures & Algorithms"
-        ]
-
-        self.fun_fact = "I enjoy turning ideas into working apps and learning by building"
-
-    def motto(self):
-        return "Learn → Build → Break → Debug → Improve → Repeat"
-
-
-me = AjayKumar()
+class AjayKumar:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = "M. Ajay Kumar"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.role = "Aspiring Software Engineer"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.status = "Engineering Student"<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.stack = {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"languages": ["Python", "JavaScript", "HTML5", "CSS3"],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"web": ["React", "Vite", "Tailwind CSS", "React Router"],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ai_ml": ["Scikit-learn", "Pandas", "NumPy", "Streamlit"],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"cloud": ["AWS"],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"tools": ["Git", "GitHub", "VS Code"]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.currently_learning = [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Full-Stack Web Development",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Artificial Intelligence & Machine Learning",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cloud Computing & AWS",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity & Blockchain",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Data Structures & Algorithms"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.fun_fact = "I enjoy turning ideas into working apps and learning by building"<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;def motto(self):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return "Learn → Build → Break → Debug → Improve → Repeat"<br>
+<br>
+me = AjayKumar()<br>
 print(me.motto())
 </code>
-</pre>
 
 </td>
 
