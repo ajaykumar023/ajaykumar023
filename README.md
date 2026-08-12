@@ -30,9 +30,12 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
-```python
+<pre>
+<code>
 class AjayKumar:
     def __init__(self):
         self.name = "M. Ajay Kumar"
@@ -63,3 +66,17 @@ class AjayKumar:
 
 me = AjayKumar()
 print(me.motto())
+</code>
+</pre>
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
+
+</td>
+</tr>
+</table>
+
+---
