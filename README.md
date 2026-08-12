@@ -32,49 +32,42 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="62%" valign="middle">
 
 <code>
-class AjayKumar:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = "M. Ajay Kumar"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.role = "Aspiring Software Engineer"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.status = "Engineering Student"<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.stack = {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"languages": ["Python", "JavaScript", "HTML5", "CSS3"],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"web": ["React", "Vite", "Tailwind CSS", "React Router"],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ai_ml": ["Scikit-learn", "Pandas", "NumPy", "Streamlit"],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"cloud": ["AWS"],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"tools": ["Git", "GitHub", "VS Code"]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.currently_learning = [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Full-Stack Web Development",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Artificial Intelligence & Machine Learning",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cloud Computing & AWS",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity & Blockchain",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Data Structures & Algorithms"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.fun_fact = "I enjoy turning ideas into working apps and learning by building"<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;def motto(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return "Learn → Build → Break → Debug → Improve → Repeat"<br>
-<br>
-me = AjayKumar()<br>
-print(me.motto())
+class AjayKumar:<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;role = "Aspiring Software Engineer"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;status = "Engineering Student"<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;focus = [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Full-Stack Development",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"AI / Machine Learning",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cloud Computing & AWS",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity & Blockchain"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;]<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;tools = [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Python", "JavaScript", "React",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Git", "GitHub", "VS Code"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;]<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;motto = "Learn → Build → Break → Debug → Improve → Repeat"
 </code>
 
 </td>
 
-<td width="35%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" />
 
 </td>
+
 </tr>
 </table>
+
+---
 
 ---
 
