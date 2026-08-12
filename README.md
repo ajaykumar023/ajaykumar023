@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Ajay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity%20%C2%B7%20Blockchain&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Ajay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity%20%C2%B7%20Blockchain&descAlignY=62&descSize=16" width="100%" />
 
 <br>
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-I'm an engineering student and **aspiring Software Engineer** who enjoys building things end-to-end — from a clean UI down to the model or the deployment pipeline behind it. My work sits at the intersection of **full-stack development** and **applied AI/ML**, with a growing interest in how **cloud infrastructure**, **cybersecurity**, and **blockchain** shape the systems we build tomorrow.
+I'm an **AI & Machine Learning Engineering student** and **aspiring AI & Software Engineer** who enjoys building things end-to-end — from a clean UI down to the model or the deployment pipeline behind it. My work sits at the intersection of **full-stack development** and **applied AI/ML**, with a growing interest in how **cloud infrastructure**, **cybersecurity**, and **blockchain** shape the systems we build tomorrow.
 
 I like projects that solve a real, tangible problem — whether that's an explainable ML model for healthcare, a live-tracking system for college transport, or a security-first web app. Outside of coursework, I'm sharpening my **DSA fundamentals**, contributing to **open source**, and looking for my next **hackathon**.
 
@@ -188,8 +188,8 @@ A web-based tool for tracking and managing clan-related information.
 
 | | |
 |---|---|
-| 🎓 **Current Status** | Engineering Student |
-| 💻 **Target Role** | Aspiring Software Engineer |
+| 🎓 **Current Status** | AIML Engineering Student |
+| 💻 **Target Role** | Aspiring AI & Software Engineer |
 | 🧭 **Primary Focus** | Full-Stack Web Development & AI/ML |
 | ☁️ **Growing Expertise** | Cloud Computing & AWS |
 | 🔐 **Exploring** | Cybersecurity & Blockchain |
