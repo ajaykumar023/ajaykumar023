@@ -32,7 +32,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-I'm an **AI & Machine Learning Engineering student** and **aspiring AI & Software Engineer** who enjoys building things end-to-end — from a clean UI down to the model or the deployment pipeline behind it. My work sits at the intersection of **full-stack development** and **applied AI/ML**, with a growing interest in how **cloud infrastructure**, **cybersecurity**, and **blockchain** shape the systems we build tomorrow.
+I'm an **Artificial Intelligence & Machine Learning Engineering student** and **aspiring AI & Software Engineer** who enjoys building things end-to-end — from a clean UI down to the model or the deployment pipeline behind it. My work sits at the intersection of **full-stack development** and **applied AI/ML**, with a growing interest in how **cloud infrastructure**, **cybersecurity**, and **blockchain** shape the systems we build tomorrow.
 
 I like projects that solve a real, tangible problem — whether that's an explainable ML model for healthcare, a live-tracking system for college transport, or a security-first web app. Outside of coursework, I'm sharpening my **DSA fundamentals**, contributing to **open source**, and looking for my next **hackathon**.
 
