@@ -1,11 +1,27 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Ajay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity%20%C2%B7%20Blockchain&descAlignY=62&descSize=16)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;AI+%2F+ML+Enthusiast;Exploring+Cloud+%26+AWS;Exploring+Cybersecurity+%2B+Blockchain)
-<a href="https://github.com/ajaykumar023"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ajay-kumar-25005531a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ajaygranite123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=ajaykumar023&style=for-the-badge&color=70a5fd" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Ajay%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity%20%C2%B7%20Blockchain&descAlignY=62&descSize=16" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;AI+%2F+ML+Enthusiast;Exploring+Cloud+%26+AWS;Exploring+Cybersecurity+%2B+Blockchain" />
+
+<br><br>
+
+<a href="https://github.com/ajaykumar023">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ajay-kumar-25005531a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ajaygranite123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
 ---
 🧑‍💻 About Me
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
