@@ -9,15 +9,15 @@
 <br><br>
 
 <a href="https://github.com/ajaykumar023">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ajay-kumar-25005531a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:ajaygranite123@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -30,43 +30,21 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```python
 class AjayKumar:
-
     def __init__(self):
         self.name = "M. Ajay Kumar"
         self.role = "Aspiring Software Engineer"
         self.status = "Engineering Student"
 
         self.stack = {
-            "languages": [
-                "Python",
-                "JavaScript",
-                "HTML5",
-                "CSS3"
-            ],
-            "web": [
-                "React",
-                "Vite",
-                "Tailwind CSS",
-                "React Router"
-            ],
-            "ai_ml": [
-                "Scikit-learn",
-                "Pandas",
-                "NumPy",
-                "Streamlit"
-            ],
-            "cloud": [
-                "AWS"
-            ],
-            "tools": [
-                "Git",
-                "GitHub",
-                "VS Code"
-            ]
+            "languages": ["Python", "JavaScript", "HTML5", "CSS3"],
+            "web": ["React", "Vite", "Tailwind CSS", "React Router"],
+            "ai_ml": ["Scikit-learn", "Pandas", "NumPy", "Streamlit"],
+            "cloud": ["AWS"],
+            "tools": ["Git", "GitHub", "VS Code"]
         }
 
         self.currently_learning = [
@@ -77,10 +55,7 @@ class AjayKumar:
             "Data Structures & Algorithms"
         ]
 
-        self.fun_fact = (
-            "I enjoy turning ideas into working apps "
-            "and learning by building."
-        )
+        self.fun_fact = "I enjoy turning ideas into working apps and learning by building"
 
     def motto(self):
         return "Learn → Build → Break → Debug → Improve → Repeat"
